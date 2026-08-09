@@ -1,6 +1,6 @@
 # Phase 1: Web Application Security (WAS)
 
-This repository contains my lab projects from the International Cybersecurity and Digital Forensics Academy (ICDFA) under the Web Application Security (WAS) phase.
+This repository contains my lab projects from the International Cybersecurity and Digital Forensics Academy (ICDFA) under the Web Application Security (WAS) & Digital Forensic phase.
 
 It includes practical exercises that helped me understand the fundamentals of Linux, Networking, and Bash Scripting - forming the foundation for learning web security concepts. Each task focuses on how systems work behind the scenes, how users and files are managed, and how security can be applied to protect them.
 
